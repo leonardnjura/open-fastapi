@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+instaloader
+google-generativeai
+google-genai
+pillow
+g4f
+curl_cffi
